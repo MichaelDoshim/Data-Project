@@ -1,0 +1,6 @@
+{
+    "name": "your-native-module",
+    "scripts": {
+      "install": "node-gyp-build"
+    }
+  }
